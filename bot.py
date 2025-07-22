@@ -25,7 +25,7 @@ logger = logging.getLogger(__name__)
 # Завантаження змінних середовища
 load_dotenv()
 
-TOKEN = "8044468648:AAHOuhgF2sEy2eFFUeeKv_aRBaQ5Y7GmNss"
+TOKEN = "8044468648:AAGBGDUf05rmUa8w9n4rSoTvGtOivMOjSdI"
 ADMIN_IDS = [1095755080]
 DB_PATH = "vape_shop.db"
 
